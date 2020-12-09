@@ -16,3 +16,4 @@ npm run build
 ```
 
 cnpm install 
+cnpm i
